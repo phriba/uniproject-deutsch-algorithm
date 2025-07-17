@@ -4,4 +4,4 @@ This project implements the **Deutsch Algorithm**, one of the earliest examples 
 
 * Based on the final project for the bachelor in physics at Iran University of Science and Technology (2023)  
 * Full English version to be published.
-* [Persian PDF report](./Project%20(persian).pdf is also available.
+* [Persian PDF report](./Project%20(persian).pdf) also available
